@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OnlineStore/1.0.0": {
+        "dependencies": {
+          "ReportGenerator": "5.4.18",
+          "coverlet.msbuild": "6.0.4"
+        },
+        "runtime": {
+          "OnlineStore.dll": {}
+        }
+      },
+      "coverlet.msbuild/6.0.4": {},
+      "ReportGenerator/5.4.18": {}
+    }
+  },
+  "libraries": {
+    "OnlineStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "coverlet.msbuild/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qa7Hg+wrOMDKpXVn2dw4Wlun490bIWsFW0fdNJQFJLZnbU27MCP0HJ2mPgS+3EQBQUb0zKlkwiQzP+j38Hc3Iw==",
+      "path": "coverlet.msbuild/6.0.4",
+      "hashPath": "coverlet.msbuild.6.0.4.nupkg.sha512"
+    },
+    "ReportGenerator/5.4.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8gWlHXwdOH+GQN/b2Ec5D9dtx33iXlGOQ63+b//6gBJpNbzIwqMg5CBqlcZQ4VVL0TaE0+eMGVexorg2jNq45Q==",
+      "path": "reportgenerator/5.4.18",
+      "hashPath": "reportgenerator.5.4.18.nupkg.sha512"
+    }
+  }
+}

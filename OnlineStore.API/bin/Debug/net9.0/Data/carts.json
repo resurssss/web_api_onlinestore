@@ -1,0 +1,83 @@
+[
+  {
+    "userId": 1,
+    "sessionId": "test-session",
+    "items": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "id": 1,
+    "createdAt": "2025-12-03T07:00:00Z",
+    "updatedAt": "2025-12-07T11:34:24.7076132Z"
+  },
+  {
+    "sessionId": "default-session",
+    "items": [
+      {
+        "cartId": 0,
+        "productId": 1,
+        "unitPrice": 10.99,
+        "quantity": 32,
+        "product": {
+          "name": "Test Product",
+          "description": "A test product for cart testing",
+          "price": 10.99,
+          "stock": 91,
+          "isActive": true,
+          "averageRating": 0,
+          "id": 1,
+          "createdAt": "2025-12-03T07:00:00Z",
+          "updatedAt": "2025-12-08T20:47:33.8050189Z"
+        },
+        "totalPrice": 351.68,
+        "id": 0,
+        "createdAt": "2025-12-08T20:47:33.8049335Z",
+        "updatedAt": "2025-12-09T19:31:57.5711427Z"
+      }
+    ],
+    "totalPrice": 351.68,
+    "totalItems": 32,
+    "id": 0,
+    "createdAt": "2025-12-08T20:36:42.5720974Z",
+    "updatedAt": "2025-12-09T19:31:57.571143Z"
+  },
+  {
+    "sessionId": "default-session",
+    "items": [
+      {
+        "cartId": 2,
+        "productId": 1,
+        "unitPrice": 10.99,
+        "quantity": 5,
+        "product": {
+          "name": "Test Product",
+          "description": "A test product for cart testing",
+          "price": 10.99,
+          "stock": 96,
+          "isActive": true,
+          "averageRating": 0,
+          "id": 1,
+          "createdAt": "2025-12-03T07:00:00Z",
+          "updatedAt": "2025-12-08T20:39:21.421574Z"
+        },
+        "totalPrice": 54.95,
+        "id": 0,
+        "createdAt": "2025-12-08T20:39:21.4214086Z",
+        "updatedAt": "2025-12-08T20:39:21.421409Z"
+      }
+    ],
+    "totalPrice": 54.95,
+    "totalItems": 5,
+    "id": 2,
+    "createdAt": "2025-12-08T20:39:21.3994368Z",
+    "updatedAt": "2025-12-08T20:39:21.4214378Z"
+  },
+  {
+    "sessionId": "default-session",
+    "items": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "id": 3,
+    "createdAt": "2025-12-08T20:39:36.8739967Z",
+    "updatedAt": "2025-12-09T19:33:54.4759848Z"
+  }
+]

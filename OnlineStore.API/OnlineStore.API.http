@@ -1,0 +1,59 @@
+@OnlineStore.API_HostAddress = http://localhost:5292
+
+### Регистрация пользователя
+POST {{OnlineStore.API_HostAddress}}/api/Auth/register
+Content-Type: application/json
+
+{
+  "email": "test@example.com",
+  "username": "testuser",
+  "password": "Password123!",
+  "firstName": "Test",
+  "lastName": "User",
+  "dateOfBirth": "1990-01-01",
+  "phoneNumber": "+1234567890"
+}
+
+### Вход в систему
+POST {{OnlineStore.API_HostAddress}}/api/Auth/login
+Content-Type: application/json
+
+{
+  "emailOrUsername": "test@example.com",
+  "password": "Password123!"
+}
+
+### Выход из системы (с использованием заголовка Authorization)
+# Необходимо заменить YOUR_ACCESS_TOKEN на реальный токен, полученный при входе
+POST {{OnlineStore.API_HostAddress}}/api/Auth/logout
+Authorization: Bearer YOUR_ACCESS_TOKEN
+
+### Выход из системы (с использованием параметра token)
+# Необходимо заменить YOUR_ACCESS_TOKEN на реальный токен, полученный при входе
+POST {{OnlineStore.API_HostAddress}}/api/Auth/logout?token=YOUR_ACCESS_TOKEN
+
+### Отзыв всех сессий (с использованием заголовка Authorization)
+# Необходимо заменить YOUR_ACCESS_TOKEN на реальный токен, полученный при входе
+POST {{OnlineStore.API_HostAddress}}/api/Auth/revoke
+Authorization: Bearer YOUR_ACCESS_TOKEN
+
+### Отзыв всех сессий (с использованием параметра token)
+# Необходимо заменить YOUR_ACCESS_TOKEN на реальный токен, полученный при входе
+POST {{OnlineStore.API_HostAddress}}/api/Auth/revoke?token=YOUR_ACCESS_TOKEN
+
+### Запрос на сброс пароля
+POST {{OnlineStore.API_HostAddress}}/api/Auth/forgot-password
+Content-Type: application/json
+
+{
+  "email": "test@example.com"
+}
+
+### Сброс пароля (после получения токена по email)
+POST {{OnlineStore.API_HostAddress}}/api/Auth/reset-password
+Content-Type: application/json
+
+{
+  "token": "ТОКЕН_ИЗ_EMAIL",
+  "newPassword": "NewPassword123!"
+}

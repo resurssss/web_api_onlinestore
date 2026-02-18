@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Test Product",
+    "description": "A test product for cart testing",
+    "price": 10.99,
+    "stock": 67,
+    "isActive": true,
+    "averageRating": 0,
+    "id": 1,
+    "createdAt": "2025-12-03T07:00:00Z",
+    "updatedAt": "2025-12-09T19:33:54.4480193Z"
+  }
+]

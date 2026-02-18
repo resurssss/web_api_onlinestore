@@ -1,0 +1,46 @@
+[
+  {
+    "code": "NEWCOUPON",
+    "discountPercent": 10,
+    "expirationDate": "2026-12-03T06:59:29.99Z",
+    "usageLimit": 3,
+    "timesUsed": 0,
+    "carts": [],
+    "id": 0,
+    "createdAt": "2025-12-03T07:02:59.8552145Z",
+    "updatedAt": "2025-12-03T07:02:59.8553295Z"
+  },
+  {
+    "code": "SALE10",
+    "discountPercent": 10,
+    "expirationDate": "2026-12-03T07:17:15.754Z",
+    "usageLimit": 2,
+    "timesUsed": 0,
+    "carts": [],
+    "id": 0,
+    "createdAt": "2025-12-03T07:17:55.1803146Z",
+    "updatedAt": "2025-12-03T07:17:55.1803147Z"
+  },
+  {
+    "code": "SAxx",
+    "discountPercent": 10,
+    "expirationDate": "2026-12-08T20:29:25.466Z",
+    "usageLimit": 4,
+    "timesUsed": 0,
+    "carts": [],
+    "id": 0,
+    "createdAt": "2025-12-08T20:30:15.8551508Z",
+    "updatedAt": "2025-12-08T20:30:15.855151Z"
+  },
+  {
+    "code": "strinjjg",
+    "discountPercent": 10,
+    "expirationDate": "2026-12-09T19:34:50.425Z",
+    "usageLimit": 3,
+    "timesUsed": 0,
+    "carts": [],
+    "id": 0,
+    "createdAt": "2025-12-09T19:35:08.8929678Z",
+    "updatedAt": "2025-12-09T19:35:08.8929679Z"
+  }
+]

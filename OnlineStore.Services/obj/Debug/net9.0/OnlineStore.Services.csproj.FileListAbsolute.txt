@@ -1,0 +1,119 @@
+C:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.deps.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.AssemblyReference.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfoInputs.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfo.cs
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineSt.91A05B9A.Up2Date
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\refint\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\ref\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.deps.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.AssemblyReference.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfoInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineSt.91A05B9A.Up2Date
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\refint\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.Services\obj\Debug\net9.0\ref\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.deps.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.AssemblyReference.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfoInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineSt.91A05B9A.Up2Date
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\refint\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.Services\obj\Debug\net9.0\ref\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.deps.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.pdb
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.pdb
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.AssemblyReference.cache
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfoInputs.cache
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfo.cs
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineSt.91A05B9A.Up2Date
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\refint\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.Services\obj\Debug\net9.0\ref\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.deps.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.AssemblyReference.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfoInputs.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineSt.91A05B9A.Up2Date
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\refint\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\ref\OnlineStore.Services.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.deps.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.AssemblyReference.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfoInputs.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfo.cs
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineSt.91A05B9A.Up2Date
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\refint\OnlineStore.Services.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.Services\obj\Debug\net9.0\ref\OnlineStore.Services.dll
+D:\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.deps.json
+D:\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.dll
+D:\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Services.pdb
+D:\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.dll
+D:\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+D:\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Core.pdb
+D:\RiderProjects\Shop\OnlineStore.Services\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.AssemblyReference.cache
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfoInputs.cache
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.AssemblyInfo.cs
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineSt.91A05B9A.Up2Date
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.dll
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\refint\OnlineStore.Services.dll
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\OnlineStore.Services.pdb
+D:\RiderProjects\Shop\OnlineStore.Services\obj\Debug\net9.0\ref\OnlineStore.Services.dll

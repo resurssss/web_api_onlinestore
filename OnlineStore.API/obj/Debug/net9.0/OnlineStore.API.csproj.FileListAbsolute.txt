@@ -1,0 +1,1194 @@
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.AssemblyReference.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfoInputs.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfo.cs
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.CoreCompileInputs.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\appsettings.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\carts.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\coupons.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\products.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\reviews.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.staticwebassets.endpoints.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.exe
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.deps.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.runtimeconfig.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\AutoMapper.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\FluentValidation.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Humanizer.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.CodeDom.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.Convention.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\scopedcss\bundle\OnlineStore.API.styles.css
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineSt.9E8DCEEF.Up2Date
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\refint\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.pdb
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.genruntimeconfig.cache
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\ref\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Люба\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\appsettings.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Data\carts.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Data\coupons.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Data\products.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Data\reviews.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.staticwebassets.endpoints.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.exe
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.deps.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.runtimeconfig.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.AssemblyReference.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfoInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\scopedcss\bundle\OnlineStore.API.styles.css
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineSt.9E8DCEEF.Up2Date
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\refint\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.genruntimeconfig.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4)\OnlineStore.API\obj\Debug\net9.0\ref\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\appsettings.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Data\carts.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Data\coupons.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Data\products.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Data\reviews.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.staticwebassets.endpoints.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.exe
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.deps.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.runtimeconfig.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.AssemblyReference.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfoInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\scopedcss\bundle\OnlineStore.API.styles.css
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineSt.9E8DCEEF.Up2Date
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\refint\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.pdb
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.genruntimeconfig.cache
+C:\Users\Люба\RiderProjects\Shop — копия (4) — копия\OnlineStore.API\obj\Debug\net9.0\ref\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\appsettings.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Data\carts.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Data\coupons.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Data\products.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Data\reviews.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.staticwebassets.endpoints.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.exe
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.deps.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.runtimeconfig.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.pdb
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\AutoMapper.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\FluentValidation.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Humanizer.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\System.CodeDom.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\System.Composition.Convention.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.pdb
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.pdb
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.AssemblyReference.cache
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfoInputs.cache
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfo.cs
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.CoreCompileInputs.cache
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\scopedcss\bundle\OnlineStore.API.styles.css
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineSt.9E8DCEEF.Up2Date
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\refint\OnlineStore.API.dll
+c:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.genruntimeconfig.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\obj\Debug\net9.0\ref\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба\OnlineStore.API\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\appsettings.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\carts.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\coupons.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\products.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\reviews.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.staticwebassets.endpoints.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.exe
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.deps.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.runtimeconfig.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.AssemblyReference.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfoInputs.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.CoreCompileInputs.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\scopedcss\bundle\OnlineStore.API.styles.css
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineSt.9E8DCEEF.Up2Date
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\refint\OnlineStore.API.dll
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.pdb
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.genruntimeconfig.cache
+C:\Users\Люба\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\ref\OnlineStore.API.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\appsettings.Development.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\appsettings.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\carts.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\coupons.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\products.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Data\reviews.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.staticwebassets.endpoints.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.exe
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.deps.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.runtimeconfig.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\AutoMapper.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\FluentValidation.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Humanizer.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.AssemblyReference.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfoInputs.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfo.cs
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\scopedcss\bundle\OnlineStore.API.styles.css
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineSt.9E8DCEEF.Up2Date
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\refint\OnlineStore.API.dll
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.pdb
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.genruntimeconfig.cache
+D:\RiderProjects\Shop — 4 лаба — ко\OnlineStore.API\obj\Debug\net9.0\ref\OnlineStore.API.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\appsettings.Development.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\appsettings.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\carts.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\coupons.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\products.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Data\reviews.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.staticwebassets.endpoints.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.exe
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.deps.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.runtimeconfig.json
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.API.pdb
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\AutoMapper.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\FluentValidation.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Humanizer.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.dll
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Core.pdb
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Services.pdb
+D:\RiderProjects\Shop\OnlineStore.API\bin\Debug\net9.0\OnlineStore.Infrastructure.pdb
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.AssemblyReference.cache
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfoInputs.cache
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.AssemblyInfo.cs
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\scopedcss\bundle\OnlineStore.API.styles.css
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineSt.9E8DCEEF.Up2Date
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.dll
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\refint\OnlineStore.API.dll
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.pdb
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\OnlineStore.API.genruntimeconfig.cache
+D:\RiderProjects\Shop\OnlineStore.API\obj\Debug\net9.0\ref\OnlineStore.API.dll
