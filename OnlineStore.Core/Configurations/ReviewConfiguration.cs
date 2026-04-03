@@ -25,7 +25,7 @@ public class ReviewConfiguration : IEntityTypeConfiguration<Review>
             .IsRequired();
             
         // Ограничения
-        builder.ToTable(t => t.HasCheckConstraint("CK_Review_Rating", "[Rating] >= 1 AND [Rating] <= 5"));
+        builder.ToTable(t => t.HasCheckConstraint("CK_Review_Rating", "\"Rating\" >= 1 AND \"Rating\" <= 5"));
             
         // Связи
         builder.HasOne(r => r.Product)

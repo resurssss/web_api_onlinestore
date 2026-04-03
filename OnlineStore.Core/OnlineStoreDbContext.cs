@@ -113,10 +113,15 @@ public class OnlineStoreDbContext : DbContext
             {
                 Id = 1,
                 Email = "admin@test.com",
+                Username = "admin",
                 PasswordHash = BCrypt.Net.BCrypt.HashPassword("Password123!"),
+                PasswordSalt = "", // BCrypt не требует отдельного salt, но поле обязательно
                 FirstName = "Admin",
                 LastName = "Admin",
+                PhoneNumber = null,
+                IsEmailConfirmed = true,
                 IsActive = true,
+                IsDeleted = false,
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = DateTime.UtcNow
             },
@@ -124,10 +129,15 @@ public class OnlineStoreDbContext : DbContext
             {
                 Id = 2,
                 Email = "user@test.com",
+                Username = "user",
                 PasswordHash = BCrypt.Net.BCrypt.HashPassword("Password123!"),
+                PasswordSalt = "",
                 FirstName = "Test",
                 LastName = "User",
+                PhoneNumber = null,
+                IsEmailConfirmed = true,
                 IsActive = true,
+                IsDeleted = false,
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = DateTime.UtcNow
             }

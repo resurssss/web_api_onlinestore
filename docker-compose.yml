@@ -1,0 +1,35 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    ports:
+      - "5000-5002:80"
+    expose:
+      - "80"
+    environment:
+      ASPNETCORE_URLS: http://+:80
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=onlinestore;Username=postgres;Password=postgres
+    depends_on:
+      - db
+    volumes:
+      - ./server/OnlineStore.API/uploads:/app/uploads
+      - ./:/repo:ro
+    restart: unless-stopped
+
+  db:
+    image: postgres:16
+    container_name: online_store_db
+    environment:
+      POSTGRES_DB: onlinestore
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

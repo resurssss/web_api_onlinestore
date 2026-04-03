@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RiderProjects\\Shop\\OnlineStore.Services\\OnlineStore.Services.csproj": {}
+    "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj": {}
   },
   "projects": {
-    "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+    "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
         "projectName": "OnlineStore.Core",
-        "projectPath": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj",
-        "packagesPath": "C:\\Users\\Люба\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\obj\\",
+        "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+        "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Люба\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -70,15 +70,15 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
             "SixLabors.ImageSharp": {
               "target": "Package",
@@ -101,21 +101,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RiderProjects\\Shop\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
+    "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderProjects\\Shop\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
         "projectName": "OnlineStore.Infrastructure",
-        "projectPath": "D:\\RiderProjects\\Shop\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Люба\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderProjects\\Shop\\OnlineStore.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Люба\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -127,8 +127,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj": {
-                "projectPath": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj"
+              "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj"
               }
             }
           }
@@ -159,11 +159,11 @@
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "System.Threading.Tasks.Dataflow": {
               "target": "Package",
@@ -186,21 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RiderProjects\\Shop\\OnlineStore.Services\\OnlineStore.Services.csproj": {
+    "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderProjects\\Shop\\OnlineStore.Services\\OnlineStore.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj",
         "projectName": "OnlineStore.Services",
-        "projectPath": "D:\\RiderProjects\\Shop\\OnlineStore.Services\\OnlineStore.Services.csproj",
-        "packagesPath": "C:\\Users\\Люба\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderProjects\\Shop\\OnlineStore.Services\\obj\\",
+        "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj",
+        "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Люба\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -212,11 +212,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj": {
-                "projectPath": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj"
+              "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj"
               },
-              "D:\\RiderProjects\\Shop\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
-                "projectPath": "D:\\RiderProjects\\Shop\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj"
+              "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj"
               }
             }
           }
@@ -274,7 +274,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

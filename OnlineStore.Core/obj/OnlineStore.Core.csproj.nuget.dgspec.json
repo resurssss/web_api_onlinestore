@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj": {}
+    "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {}
   },
   "projects": {
-    "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+    "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
         "projectName": "OnlineStore.Core",
-        "projectPath": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\OnlineStore.Core.csproj",
-        "packagesPath": "C:\\Users\\Люба\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderProjects\\Shop\\OnlineStore.Core\\obj\\",
+        "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+        "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Люба\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -70,15 +70,15 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
             "SixLabors.ImageSharp": {
               "target": "Package",
@@ -101,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
