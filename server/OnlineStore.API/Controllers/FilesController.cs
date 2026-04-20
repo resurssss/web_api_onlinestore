@@ -23,6 +23,7 @@ public class FilesController : ControllerBase
     private readonly IMapper _mapper;
     private readonly IWebHostEnvironment _environment;
     private readonly FileStorageOptions _options;
+    private readonly string _instanceId;
     
     public FilesController(
         FileService fileService,
@@ -36,6 +37,7 @@ public class FilesController : ControllerBase
         _mapper = mapper;
         _environment = environment;
         _options = options.Value;
+        _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
     }
     
     /// <summary>
@@ -51,6 +53,7 @@ public class FilesController : ControllerBase
         [FromForm] bool isPublic = false,
         [FromForm] DateTime? expiresAt = null)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int userId = GetUserId(); // Для загрузки файлов требуется авторизация
@@ -81,6 +84,7 @@ public class FilesController : ControllerBase
         [FromForm] bool isPublic = false,
         [FromForm] DateTime? expiresAt = null)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             if (files == null || files.Count == 0)
@@ -122,6 +126,7 @@ public class FilesController : ControllerBase
         [FromForm] int totalChunks = 1,
         [FromForm] string? fileName = null)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int userId = GetUserId();
@@ -179,6 +184,7 @@ public class FilesController : ControllerBase
         [FromQuery] string? contentType = null,
         [FromQuery] string? searchTerm = null)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int userId = GetUserId(); // Для получения списка файлов требуется авторизация
@@ -201,6 +207,7 @@ public class FilesController : ControllerBase
     [HttpGet("{id}/info")]
     public async Task<ActionResult<FileMetadataDTO>> GetFileInfo(int id)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int? userId = null;
@@ -240,6 +247,7 @@ public class FilesController : ControllerBase
     [AllowAnonymous]
     public async Task<IActionResult> DownloadFile(int id)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int? userId = null;
@@ -308,6 +316,7 @@ public class FilesController : ControllerBase
     [AllowAnonymous]
     public async Task<IActionResult> GetThumbnail(int id, [FromQuery] string size = "small")
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int? userId = null;
@@ -373,6 +382,7 @@ public class FilesController : ControllerBase
     [AllowAnonymous]
     public async Task<IActionResult> StreamFile(int id)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int? userId = null;
@@ -433,6 +443,7 @@ public class FilesController : ControllerBase
     [Produces("application/octet-stream")]
     public async Task<IActionResult> GetDownloadLink(int id)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             var userId = GetUserId();
@@ -536,6 +547,7 @@ public class FilesController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<ActionResult> DeleteFile(int id)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         try
         {
             int userId = GetUserId();

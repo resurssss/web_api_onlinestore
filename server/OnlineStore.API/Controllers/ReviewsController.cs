@@ -11,10 +11,12 @@ namespace OnlineStore.API.Controllers
     public class ReviewsController : ControllerBase
     {
         private readonly IReviewService _reviewService;
+        private readonly string _instanceId;
 
         public ReviewsController(IReviewService reviewService)
         {
             _reviewService = reviewService;
+            _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
         /// <summary>
@@ -24,6 +26,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous] // Разрешаем анонимный доступ к списку отзывов
         public async Task<ActionResult<IEnumerable<ReviewResponseDto>>> GetReviews([FromQuery] int? productId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 var reviews = await _reviewService.GetReviewsAsync(productId, cancellationToken);
@@ -42,6 +45,7 @@ namespace OnlineStore.API.Controllers
         [Authorize] // Только авторизованные пользователи могут добавлять отзывы
         public async Task<ActionResult<ReviewResponseDto>> AddReview([FromBody] ReviewCreateDto dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Получаем ID текущего пользователя из Claims и устанавливаем его в DTO
@@ -64,6 +68,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous] // Разрешаем анонимный доступ к рейтингу
         public async Task<ActionResult> GetProductRating([FromQuery] int productId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             var (rating, count) = await _reviewService.GetProductRatingAsync(productId, cancellationToken);
             return Ok(new { Rating = rating, ReviewCount = count });
         }

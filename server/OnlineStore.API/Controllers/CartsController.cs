@@ -13,16 +13,19 @@ namespace OnlineStore.API.Controllers
     public class CartsController : ControllerBase
     {
         private readonly ICartService _cartService;
+        private readonly string _instanceId;
 
         public CartsController(ICartService cartService)
         {
             _cartService = cartService;
+            _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
         [HttpGet]
         [Authorize] // Только авторизованные пользователи могут получить корзину
         public async Task<ActionResult<CartResponseDto>> GetCart([FromQuery] int id, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Проверка прав доступа: пользователь может получить только свою корзину
@@ -47,6 +50,7 @@ namespace OnlineStore.API.Controllers
         [Authorize] // Только авторизованные пользователи могут добавлять товары в корзину
         public async Task<ActionResult<CartResponseDto>> AddToCart([FromBody] CartItemCreateDto dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Получаем ID текущего пользователя из Claims
@@ -74,6 +78,7 @@ namespace OnlineStore.API.Controllers
         [Authorize] // Только авторизованные пользователи могут обновлять корзину
         public async Task<ActionResult<CartResponseDto>> UpdateItemQuantity([FromQuery] int cartId, [FromQuery] int productId, [FromBody] CartItemUpdateDto dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Проверка прав доступа: пользователь может обновлять только свою корзину
@@ -99,6 +104,7 @@ namespace OnlineStore.API.Controllers
         [Authorize] // Только авторизованные пользователи могут удалять из корзины
         public async Task<ActionResult> RemoveFromCart([FromQuery] int cartId, [FromQuery] int productId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Проверка прав доступа: пользователь может удалять только из своей корзины
             var currentUserId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? "0");
             var cart = await _cartService.GetCartAsync(cartId, cancellationToken);
@@ -117,6 +123,7 @@ namespace OnlineStore.API.Controllers
         [Authorize] // Только авторизованные пользователи могут оформлять заказ
         public async Task<ActionResult> Checkout([FromQuery] int cartId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Проверка прав доступа: пользователь может оформить только свой заказ
             var currentUserId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? "0");
             var cart = await _cartService.GetCartAsync(cartId, cancellationToken);
@@ -138,6 +145,7 @@ namespace OnlineStore.API.Controllers
         [Authorize] // Только авторизованные пользователи могут применять купоны
         public async Task<ActionResult<CartResponseDto>> ApplyCoupon([FromQuery] int cartId, [FromBody] string code, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Проверка прав доступа: пользователь может применить купон только к своей корзине

@@ -11,10 +11,12 @@ namespace OnlineStore.API.Controllers;
 public class AdminController : ControllerBase
 {
     private readonly IAuditService _auditService;
+    private readonly string _instanceId;
     
     public AdminController(IAuditService auditService)
     {
         _auditService = auditService;
+        _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
     }
     
     /// <summary>
@@ -36,6 +38,7 @@ public class AdminController : ControllerBase
         [FromQuery] DateTime? startDate = null,
         [FromQuery] DateTime? endDate = null)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         if (page < 1) page = 1;
         if (pageSize < 1) pageSize = 10;
         if (pageSize > 100) pageSize = 100; // Ограничение на размер страницы
@@ -64,6 +67,7 @@ public class AdminController : ControllerBase
         [FromQuery] int page = 1,
         [FromQuery] int pageSize = 10)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         if (page < 1) page = 1;
         if (pageSize < 1) pageSize = 10;
         if (pageSize > 100) pageSize = 100; // Ограничение на размер страницы
@@ -83,6 +87,7 @@ public class AdminController : ControllerBase
         [FromQuery] int page = 1,
         [FromQuery] int pageSize = 10)
     {
+        Response.Headers.Append("X-Instance-Id", _instanceId);
         if (page < 1) page = 1;
         if (pageSize < 1) pageSize = 10;
         if (pageSize > 100) pageSize = 100; // Ограничение на размер страницы

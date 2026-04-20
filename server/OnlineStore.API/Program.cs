@@ -242,7 +242,8 @@ var app = builder.Build();
 // Настройка middleware в правильном порядке
 if (app.Environment.IsDevelopment())
 {
-    app.UseDeveloperExceptionPage();
+    //app.UseDeveloperExceptionPage();
+    //app.UseExceptionHandler("/error");
 }
 
 app.UseHttpsRedirection();

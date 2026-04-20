@@ -14,16 +14,18 @@ namespace OnlineStore.API.Controllers
     {
         private readonly IProductService _service;
         private readonly IMapper _mapper;
+        private readonly string _instanceId;  // переменная окружения
 
         public ProductsController(IProductService service, IMapper mapper)
         {
             _service = service;
             _mapper = mapper;
+            _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
         // GET: /api/products
         [HttpGet]
-        [AllowAnonymous] // Разрешаем анонимный доступ к списку продуктов
+        [AllowAnonymous]
         public async Task<ActionResult<PagedResultDto<ProductListItemDto>>> GetProducts(
             [FromQuery] string? search,
             [FromQuery] int? minPrice,
@@ -35,8 +37,33 @@ namespace OnlineStore.API.Controllers
             [FromQuery] int pageSize = 10,
             CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
+            
             var result = await _service.GetProductsAsync(search, minPrice, maxPrice, inStock, sortBy, descending, page, pageSize, cancellationToken);
             return Ok(result);
+        }
+
+        [HttpGet("raw-error")]
+        [AllowAnonymous]
+        public void RawError()
+        {
+            HttpContext.Response.StatusCode = 500;
+            HttpContext.Response.ContentType = "text/plain";
+            HttpContext.Response.WriteAsync("Internal Server Error");
+        }
+
+
+
+        [HttpGet("env")]
+        [AllowAnonymous]
+        public IActionResult GetEnv()
+        {
+            throw new Exception("Test 500 error");
+            var instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID");
+            return Ok(new { 
+                instance_id = instanceId,
+                container_ip = Request.HttpContext.Connection.LocalIpAddress?.ToString()
+            });
         }
         
         // GET: /api/products/{id}
@@ -44,6 +71,8 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult<ProductResponseDto>> GetProduct(int id, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
+            
             try
             {
                 var product = await _service.GetProductWithImagesAsync(id, cancellationToken);
@@ -57,27 +86,34 @@ namespace OnlineStore.API.Controllers
 
         // POST: /api/products/bulk-create
         [HttpPost("bulk-create")]
-        [Authorize(Roles = "Администратор")] // Только администраторы могут создавать продукты
+        [Authorize(Roles = "Администратор")]
         public async Task<ActionResult<List<BulkOperationResultDto<ProductResponseDto>>>> BulkCreate([FromBody] List<ProductCreateDto> dtos, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
+            
             var result = await _service.BulkCreateAsync(dtos, cancellationToken);
             return Ok(result);
         }
 
         // PUT: /api/products/bulk-update
         [HttpPut("bulk-update")]
-        [Authorize(Roles = "Администратор")] // Только администраторы могут обновлять продукты
+        [Authorize(Roles = "Администратор")]
         public async Task<ActionResult<List<BulkOperationResultDto<ProductResponseDto>>>> BulkUpdate([FromBody] List<(int Id, ProductUpdateDto Dto)> items, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
+            
             var result = await _service.BulkUpdateAsync(items, cancellationToken);
             return Ok(result);
         }
 
         // DELETE: /api/products/bulk-delete
         [HttpDelete("bulk-delete")]
-        [Authorize(Roles = "Администратор")] // Только администраторы могут удалять продукты
+        [Authorize(Roles = "Администратор")]
         public async Task<ActionResult<List<BulkOperationResultDto<object>>>> BulkDelete([FromBody] List<int> ids, CancellationToken cancellationToken = default)
         {
+
+            Response.Headers.Append("X-Instance-Id", _instanceId);
+            
             var result = await _service.BulkDeleteAsync(ids, cancellationToken);
             return Ok(result);
         }

@@ -31,6 +31,7 @@ namespace OnlineStore.API.Controllers
         private readonly IValidator<ConfirmEmailDTO> _confirmEmailValidator;
         private readonly IJwtService _jwtService;
         private readonly IAuditService _auditService;
+        private readonly string _instanceId;
 
         public AuthController(
             OnlineStoreDbContext context,
@@ -50,6 +51,7 @@ namespace OnlineStore.API.Controllers
             _confirmEmailValidator = confirmEmailValidator;
             _jwtService = jwtService;
             _auditService = auditService;
+            _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
         /// <summary>
@@ -64,6 +66,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult> Register([FromBody] RegisterDTO dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Получение IP и UserAgent для логирования
             var ipAddress = HttpContext.Connection.RemoteIpAddress?.ToString() ?? "Unknown";
             var userAgent = HttpContext.Request.Headers.UserAgent.ToString();
@@ -181,6 +184,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult<LoginResponseDTO>> Login([FromBody] LoginDTO dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Поиск пользователя по email ИЛИ по username
             var user = await _context.Users
                 .Include(u => u.UserRoles)
@@ -331,6 +335,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult<LoginResponseDTO>> Refresh([FromBody] RefreshTokenRequestDTO dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Извлечение UserId из истёкшего access token
             ClaimsPrincipal principal;
             try
@@ -520,6 +525,7 @@ namespace OnlineStore.API.Controllers
         [Authorize]
         public async Task<IActionResult> Logout(CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Получение UserId из Claims
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             
@@ -561,6 +567,7 @@ namespace OnlineStore.API.Controllers
         [Authorize]
         public async Task<ActionResult> Revoke([FromQuery] string? token = null, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Получение UserId из Claims
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             
@@ -626,6 +633,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult> ForgotPassword([FromBody] ForgotPasswordDTO dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Валидация данных
             var validationResult = await _forgotPasswordValidator.ValidateAsync(dto, cancellationToken);
             if (!validationResult.IsValid)
@@ -699,6 +707,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult> ResetPassword([FromBody] ResetPasswordDTO dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Валидация данных
             var validationResult = await _resetPasswordValidator.ValidateAsync(dto, cancellationToken);
             if (!validationResult.IsValid)
@@ -830,6 +839,7 @@ namespace OnlineStore.API.Controllers
         [Authorize]
         public async Task<ActionResult> ChangePassword([FromBody] ChangePasswordDTO dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Валидация данных
             var validationResult = await _changePasswordValidator.ValidateAsync(dto, cancellationToken);
             if (!validationResult.IsValid)
@@ -905,6 +915,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult> ConfirmEmail([FromBody] ConfirmEmailDTO dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Валидация данных
             var validationResult = await _confirmEmailValidator.ValidateAsync(dto, cancellationToken);
             if (!validationResult.IsValid)
@@ -964,6 +975,7 @@ namespace OnlineStore.API.Controllers
         [Authorize]
         public async Task<ActionResult<UserResponseDTO>> Profile(CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             // Получение UserId из Claims
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             if (userIdClaim == null)

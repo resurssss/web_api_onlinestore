@@ -10,10 +10,12 @@ namespace OnlineStore.API.Controllers
     public class CouponsController : ControllerBase
     {
         private readonly ICouponService _couponService;
+        private readonly string _instanceId;
 
         public CouponsController(ICouponService couponService)
         {
             _couponService = couponService;
+            _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
         /// <summary>
@@ -22,6 +24,7 @@ namespace OnlineStore.API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CouponListItemDto>>> GetAll([FromQuery] string? code = null, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             var coupons = await _couponService.GetAllAsync(code, cancellationToken);
             return Ok(coupons);
         }
@@ -32,6 +35,7 @@ namespace OnlineStore.API.Controllers
         [HttpGet("by-id")]
         public async Task<ActionResult<CouponResponseDto>> GetById([FromQuery] int id, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             var coupon = await _couponService.GetByIdAsync(id, cancellationToken);
             return coupon != null ? Ok(coupon) : NotFound();
         }
@@ -42,6 +46,7 @@ namespace OnlineStore.API.Controllers
         [HttpPost]
         public async Task<ActionResult<CouponResponseDto>> Create([FromBody] CouponCreateDto dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             var coupon = await _couponService.CreateAsync(dto, cancellationToken);
             return coupon != null ? CreatedAtAction(nameof(GetById), new { id = coupon.Id }, coupon) : BadRequest();
         }
@@ -52,6 +57,7 @@ namespace OnlineStore.API.Controllers
         [HttpPut]
         public async Task<ActionResult<CouponResponseDto>> Update([FromQuery] string id, [FromBody] CouponUpdateDto dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             if (!int.TryParse(id, out var intId))
             {
                 return BadRequest("Invalid coupon ID format");
@@ -67,6 +73,7 @@ namespace OnlineStore.API.Controllers
         [HttpDelete]
         public async Task<ActionResult> Delete([FromQuery] string id, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             if (!int.TryParse(id, out var intId))
             {
                 return BadRequest("Invalid coupon ID format");

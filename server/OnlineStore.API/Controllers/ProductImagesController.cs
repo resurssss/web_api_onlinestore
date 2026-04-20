@@ -12,10 +12,12 @@ namespace OnlineStore.API.Controllers
     public class ProductImagesController : ControllerBase
     {
         private readonly IProductService _productService;
+        private readonly string _instanceId;
 
         public ProductImagesController(IProductService productService)
         {
             _productService = productService;
+            _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
         // GET: /api/products/{productId}/images
@@ -23,6 +25,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public async Task<ActionResult<List<ProductImageResponseDto>>> GetProductImages(int productId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 var images = await _productService.GetProductImagesAsync(productId, cancellationToken);
@@ -57,6 +60,7 @@ namespace OnlineStore.API.Controllers
             [FromForm] int order = 0,
             CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Проверка существования продукта
@@ -118,6 +122,7 @@ namespace OnlineStore.API.Controllers
         [Authorize(Roles = "Администратор")]
         public async Task<IActionResult> DeleteProductImage(int productId, int imageId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 await _productService.RemoveProductImageAsync(productId, imageId, cancellationToken);

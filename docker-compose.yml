@@ -1,23 +1,66 @@
 services:
-  api:
+  # Три инстанса сервера (app1, app2, app3)
+  app1:
     build:
       context: .
       dockerfile: server/Dockerfile
-    ports:
-      - "5000-5002:80"
+    container_name: online_store_app1
     expose:
       - "80"
     environment:
       ASPNETCORE_URLS: http://+:80
       ASPNETCORE_ENVIRONMENT: Development
       ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=onlinestore;Username=postgres;Password=postgres
+      INSTANCE_ID: "Instance-1"
     depends_on:
       - db
     volumes:
       - ./server/OnlineStore.API/uploads:/app/uploads
-      - ./:/repo:ro
     restart: unless-stopped
+    networks:
+      - internal
 
+  app2:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    container_name: online_store_app2
+    expose:
+      - "80"
+    environment:
+      ASPNETCORE_URLS: http://+:80
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=onlinestore;Username=postgres;Password=postgres
+      INSTANCE_ID: "Instance-2"
+    depends_on:
+      - db
+    volumes:
+      - ./server/OnlineStore.API/uploads:/app/uploads
+    restart: unless-stopped
+    networks:
+      - internal
+
+  app3:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    container_name: online_store_app3
+    expose:
+      - "80"
+    environment:
+      ASPNETCORE_URLS: http://+:80
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=onlinestore;Username=postgres;Password=postgres
+      INSTANCE_ID: "Instance-3"
+    depends_on:
+      - db
+    volumes:
+      - ./server/OnlineStore.API/uploads:/app/uploads
+    restart: unless-stopped
+    networks:
+      - internal
+
+  # PostgreSQL база данных (общая для всех инстансов)
   db:
     image: postgres:16
     container_name: online_store_db
@@ -30,6 +73,31 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
     restart: unless-stopped
+    networks:
+      - internal
+
+  # Nginx reverse proxy с TLS
+  nginx:
+    image: nginx:alpine
+    container_name: online_store_nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/certs:/etc/nginx/certs
+      - ./static:/usr/share/nginx/html/static
+    depends_on:
+      - app1
+      - app2
+      - app3
+    restart: unless-stopped
+    networks:
+      - internal
+
+networks:
+  internal:
+    driver: bridge
 
 volumes:
   postgres_data:

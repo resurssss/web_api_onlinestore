@@ -13,10 +13,12 @@ namespace OnlineStore.API.Controllers
     public class FavoritesController : ControllerBase
     {
         private readonly IFavoriteService _favoriteService;
+        private readonly string _instanceId;
 
         public FavoritesController(IFavoriteService favoriteService)
         {
             _favoriteService = favoriteService;
+            _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
         /// <summary>
@@ -25,6 +27,7 @@ namespace OnlineStore.API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<FavoriteListItemDto>>> GetFavorites([FromQuery] int userId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Проверка прав доступа: пользователь может получить только свое избранное
@@ -51,6 +54,7 @@ namespace OnlineStore.API.Controllers
         [HttpPost]
         public async Task<ActionResult<FavoriteResponseDto>> AddFavorite([FromBody] FavoriteCreateDto dto, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Получаем ID текущего пользователя из Claims и устанавливаем его в DTO
@@ -72,6 +76,7 @@ namespace OnlineStore.API.Controllers
         [HttpDelete]
         public async Task<ActionResult> RemoveFavorite([FromQuery] int userId, [FromQuery] int productId, CancellationToken cancellationToken = default)
         {
+            Response.Headers.Append("X-Instance-Id", _instanceId);
             try
             {
                 // Проверка прав доступа: пользователь может удалять только из своего избранного
