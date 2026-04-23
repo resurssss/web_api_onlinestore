@@ -24,7 +24,7 @@ namespace OnlineStore.API.Controllers
             HealthCheckCounter.Inc();
             
             // Временно возвращаем 500 для теста
-            return StatusCode(501, new { status = "unhealthy", instance = _instanceId });
+            return StatusCode(500, new { status = "unhealthy", instance = _instanceId });
         }
     }
 }
