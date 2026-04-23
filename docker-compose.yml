@@ -1,8 +1,6 @@
 services:
   app1:
-    build:
-      context: .
-      dockerfile: server/Dockerfile
+    image: lyuberof/onlinestore-api:latest
     container_name: online_store_app1
     expose:
       - "80"
@@ -20,9 +18,7 @@ services:
       - internal
 
   app2:
-    build:
-      context: .
-      dockerfile: server/Dockerfile
+    image: lyuberof/onlinestore-api:latest
     container_name: online_store_app2
     expose:
       - "80"
@@ -40,9 +36,7 @@ services:
       - internal
 
   app3:
-    build:
-      context: .
-      dockerfile: server/Dockerfile
+    image: lyuberof/onlinestore-api:latest
     container_name: online_store_app3
     expose:
       - "80"

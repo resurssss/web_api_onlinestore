@@ -51,7 +51,7 @@ jobs:
             ${{ secrets.DOCKER_USERNAME }}/${{ env.DOCKER_IMAGE_NAME }}:latest
             ${{ secrets.DOCKER_USERNAME }}/${{ env.DOCKER_IMAGE_NAME }}:${{ steps.vars.outputs.sha_short }}
 
-  deploy:
+    deploy:
     needs: docker-build-push
     runs-on: self-hosted
     steps:
@@ -60,9 +60,13 @@ jobs:
         run: |
           cd C:\Users\Serg\store1
           docker-compose pull
-      - name: Restart containers
+      - name: Recreate containers with new image
         run: |
           cd C:\Users\Serg\store1
-          docker-compose up -d
+          docker-compose up -d --force-recreate
+      - name: Verify deployment
+        run: |
+          timeout /t 15 /nobreak >nul
+          curl -f http://localhost/health
       - name: Clean up old images
         run: docker image prune -f
