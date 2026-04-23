@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ucwdF4rAw94=",
+  "dgSpecHash": "RghslCQjPd4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj",
+  "projectFilePath": "C:\\Users\\Serg\\store1\\OnlineStore.Services\\OnlineStore.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Serg\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -73,9 +73,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "У пакета \"AutoMapper\" 12.0.1 есть известная уязвимость https://github.com/advisories/GHSA-rvv3-g6hj-g44x (уровень серьезности: высокий)",
-      "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj",
+      "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Services\\OnlineStore.Services.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj",
+      "filePath": "C:\\Users\\Serg\\store1\\OnlineStore.Services\\OnlineStore.Services.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net9.0"

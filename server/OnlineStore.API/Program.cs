@@ -21,6 +21,7 @@ using System.IdentityModel.Tokens.Jwt;
 using OnlineStore.Core.Services;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
+using Prometheus;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -238,6 +239,7 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
 
 // Настройка middleware в правильном порядке
 if (app.Environment.IsDevelopment())

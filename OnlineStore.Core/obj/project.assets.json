@@ -3174,11 +3174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "projectName": "OnlineStore.Core",
-      "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\obj\\",
+      "outputPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"

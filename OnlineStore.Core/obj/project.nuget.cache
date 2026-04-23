@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ItLabnOEkLU=",
+  "dgSpecHash": "3yMG2JxOqAc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+  "projectFilePath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Serg\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -61,9 +61,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "У пакета \"AutoMapper\" 12.0.1 есть известная уязвимость https://github.com/advisories/GHSA-rvv3-g6hj-g44x (уровень серьезности: высокий)",
-      "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "filePath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net9.0"
@@ -73,9 +73,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "У пакета \"SixLabors.ImageSharp\" 3.1.5 есть известная уязвимость https://github.com/advisories/GHSA-2cmq-823j-5qj8 (уровень серьезности: высокий)",
-      "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "filePath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net9.0"
@@ -85,9 +85,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "У пакета \"SixLabors.ImageSharp\" 3.1.5 есть известная уязвимость https://github.com/advisories/GHSA-rxmq-m78w-7wmc (уровень серьезности: средний)",
-      "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+      "filePath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net9.0"

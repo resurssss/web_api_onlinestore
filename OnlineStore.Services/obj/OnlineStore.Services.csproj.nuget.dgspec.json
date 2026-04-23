@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj": {}
+    "C:\\Users\\Serg\\store1\\OnlineStore.Services\\OnlineStore.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+    "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
         "projectName": "OnlineStore.Core",
-        "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj",
+        "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj",
         "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\obj\\",
+        "outputPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
+    "C:\\Users\\Serg\\store1\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Serg\\store1\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
         "projectName": "OnlineStore.Infrastructure",
-        "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Serg\\store1\\OnlineStore.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -127,8 +127,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {
-                "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj"
+              "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj": {
+    "C:\\Users\\Serg\\store1\\OnlineStore.Services\\OnlineStore.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Serg\\store1\\OnlineStore.Services\\OnlineStore.Services.csproj",
         "projectName": "OnlineStore.Services",
-        "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Services\\OnlineStore.Services.csproj",
+        "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Services\\OnlineStore.Services.csproj",
         "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serg\\store\\OnlineStore.Services\\obj\\",
+        "outputPath": "C:\\Users\\Serg\\store1\\OnlineStore.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -212,11 +212,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj": {
-                "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Core\\OnlineStore.Core.csproj"
+              "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Core\\OnlineStore.Core.csproj"
               },
-              "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Serg\\store\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj"
+              "C:\\Users\\Serg\\store1\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Serg\\store1\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj"
               }
             }
           }
