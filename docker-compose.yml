@@ -1,5 +1,4 @@
 services:
-  # Три инстанса сервера (app1, app2, app3)
   app1:
     build:
       context: .
@@ -60,7 +59,6 @@ services:
     networks:
       - internal
 
-  # PostgreSQL база данных (общая для всех инстансов)
   db:
     image: postgres:16
     container_name: online_store_db
@@ -76,7 +74,6 @@ services:
     networks:
       - internal
 
-  # Nginx reverse proxy с TLS
   nginx:
     image: nginx:alpine
     container_name: online_store_nginx
@@ -95,9 +92,66 @@ services:
     networks:
       - internal
 
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: online_store_prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+    networks:
+      - internal
+    restart: unless-stopped
+
+  loki:
+    image: grafana/loki:latest
+    container_name: online_store_loki
+    ports:
+      - "3100:3100"
+    volumes:
+      - ./loki/loki-config.yml:/etc/loki/loki-config.yml
+      - loki_data:/loki
+    command: -config.file=/etc/loki/loki-config.yml
+    networks:
+      - internal
+    restart: unless-stopped
+
+  promtail:
+    image: grafana/promtail:latest
+    container_name: online_store_promtail
+    volumes:
+      - ./promtail/promtail-config.yml:/etc/promtail/promtail-config.yml
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: -config.file=/etc/promtail/promtail-config.yml
+    networks:
+      - internal
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: online_store_grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - grafana_data:/var/lib/grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_INSTALL_PLUGINS=grafana-piechart-panel
+    networks:
+      - internal
+    restart: unless-stopped
+
 networks:
   internal:
     driver: bridge
 
 volumes:
   postgres_data:
+  prometheus_data:
+  loki_data:
+  grafana_data:

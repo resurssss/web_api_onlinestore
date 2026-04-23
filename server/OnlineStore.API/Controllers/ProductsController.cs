@@ -47,7 +47,7 @@ namespace OnlineStore.API.Controllers
         [AllowAnonymous]
         public void RawError()
         {
-            HttpContext.Response.StatusCode = 500;
+            HttpContext.Response.StatusCode = 501;
             HttpContext.Response.ContentType = "text/plain";
             HttpContext.Response.WriteAsync("Internal Server Error");
         }
