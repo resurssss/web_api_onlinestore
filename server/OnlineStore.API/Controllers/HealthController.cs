@@ -22,8 +22,7 @@ namespace OnlineStore.API.Controllers
         {
             Response.Headers.Append("X-Instance-Id", _instanceId);
             HealthCheckCounter.Inc();
-            //return Ok(new { status = "healthy", instance = _instanceId });
-            return StatusCode(500, new { status = "unhealthy", instance = _instanceId });
+            return Ok(new { status = "healthy", instance = _instanceId });
         }
     }
 }
