@@ -3,8 +3,6 @@ name: CI/CD Pipeline
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
 
 env:
   DOCKER_USERNAME: lyuberof
@@ -66,7 +64,7 @@ jobs:
           docker-compose up -d --force-recreate
       - name: Verify deployment
         run: |
-          timeout /t 15 /nobreak >nul
+          Start-Sleep -Seconds 15
           curl -f http://localhost/health
       - name: Clean up old images
         run: docker image prune -f
