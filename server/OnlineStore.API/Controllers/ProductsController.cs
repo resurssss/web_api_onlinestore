@@ -5,6 +5,9 @@ using OnlineStore.Core.Models;
 using OnlineStore.Core.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
+using System.Text;
+using System.Text.Json;
+using Prometheus;
 
 namespace OnlineStore.API.Controllers
 {
@@ -14,7 +17,14 @@ namespace OnlineStore.API.Controllers
     {
         private readonly IProductService _service;
         private readonly IMapper _mapper;
-        private readonly string _instanceId;  // переменная окружения
+        private readonly string _instanceId;
+        
+        private static readonly Histogram ResponseSizeHistogram = Metrics
+            .CreateHistogram("http_response_size_bytes", "Response size in bytes",
+                new HistogramConfiguration
+                {
+                    Buckets = new[] { 100, 500, 1000, 5000, 10000, 50000, 100000 }
+                });
 
         public ProductsController(IProductService service, IMapper mapper)
         {
@@ -40,9 +50,13 @@ namespace OnlineStore.API.Controllers
             Response.Headers.Append("X-Instance-Id", _instanceId);
             
             var result = await _service.GetProductsAsync(search, minPrice, maxPrice, inStock, sortBy, descending, page, pageSize, cancellationToken);
+            
+            var json = JsonSerializer.Serialize(result);
+            var sizeInBytes = Encoding.UTF8.GetByteCount(json);
+            ResponseSizeHistogram.Observe(sizeInBytes);
+            
             return Ok(result);
         }
-
 
         [HttpGet("raw-error")]
         [AllowAnonymous]
@@ -52,7 +66,6 @@ namespace OnlineStore.API.Controllers
             HttpContext.Response.ContentType = "text/plain";
             HttpContext.Response.WriteAsync("Internal Server Error");
         }
-
 
         [HttpGet("env")]
         [AllowAnonymous]
@@ -111,7 +124,6 @@ namespace OnlineStore.API.Controllers
         [Authorize(Roles = "Администратор")]
         public async Task<ActionResult<List<BulkOperationResultDto<object>>>> BulkDelete([FromBody] List<int> ids, CancellationToken cancellationToken = default)
         {
-
             Response.Headers.Append("X-Instance-Id", _instanceId);
             
             var result = await _service.BulkDeleteAsync(ids, cancellationToken);

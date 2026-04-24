@@ -261,6 +261,12 @@ app.UseAuthentication();
 //app.UseMiddleware<OnlineStore.API.Middleware.SessionValidationMiddleware>();
 app.UseAuthorization();
 
+app.UseHttpMetrics(options =>
+{
+    options.RequestSizeLabelName = "request_size";
+    options.ResponseSizeLabelName = "response_size";
+});
+
 // Swagger middleware
 app.UseSwagger();
 app.UseSwaggerUI(c =>
