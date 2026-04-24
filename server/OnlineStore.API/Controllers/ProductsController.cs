@@ -20,11 +20,11 @@ namespace OnlineStore.API.Controllers
         private readonly string _instanceId;
         
         private static readonly Histogram ResponseSizeHistogram = Metrics
-            .CreateHistogram("http_response_size_bytes", "Response size in bytes",
-                new HistogramConfiguration
-                {
-                    Buckets = new[] { 100, 500, 1000, 5000, 10000, 50000, 100000 }
-                });
+        .CreateHistogram("http_response_size_bytes", "Response size in bytes",
+        new HistogramConfiguration
+        {
+            Buckets = new double[] { 100, 500, 1000, 5000, 10000, 50000, 100000 }
+        });
 
         public ProductsController(IProductService service, IMapper mapper)
         {
