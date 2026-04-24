@@ -17,6 +17,7 @@ namespace OnlineStore.API.Controllers
             _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
+        // контроллер для проверки работоспособности
         [HttpGet("health")]
         public IActionResult Health()
         {
