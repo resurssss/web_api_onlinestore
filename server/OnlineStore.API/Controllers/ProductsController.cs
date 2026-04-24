@@ -20,11 +20,12 @@ namespace OnlineStore.API.Controllers
         private readonly string _instanceId;
         
         private static readonly Histogram ResponseSizeHistogram = Metrics
-        .CreateHistogram("http_response_size_bytes", "Response size in bytes",
-        new HistogramConfiguration
-        {
-            Buckets = new double[] { 100, 500, 1000, 5000, 10000, 50000, 100000 }
-        });
+            .CreateHistogram("http_response_size_bytes", "Response size in bytes",
+                new HistogramConfiguration
+                {
+                    Buckets = new double[] { 100, 500, 1000, 5000, 10000, 50000, 100000 },
+                    LabelNames = new[] { "route" }
+                });
 
         public ProductsController(IProductService service, IMapper mapper)
         {
@@ -53,7 +54,7 @@ namespace OnlineStore.API.Controllers
             
             var json = JsonSerializer.Serialize(result);
             var sizeInBytes = Encoding.UTF8.GetByteCount(json);
-            ResponseSizeHistogram.Observe(sizeInBytes);
+            ResponseSizeHistogram.WithLabels("api/products").Observe(sizeInBytes);
             
             return Ok(result);
         }
@@ -89,6 +90,11 @@ namespace OnlineStore.API.Controllers
             try
             {
                 var product = await _service.GetProductWithImagesAsync(id, cancellationToken);
+                
+                var json = JsonSerializer.Serialize(product);
+                var sizeInBytes = Encoding.UTF8.GetByteCount(json);
+                ResponseSizeHistogram.WithLabels("api/products/id").Observe(sizeInBytes);
+                
                 return Ok(product);
             }
             catch (KeyNotFoundException)
@@ -105,6 +111,11 @@ namespace OnlineStore.API.Controllers
             Response.Headers.Append("X-Instance-Id", _instanceId);
             
             var result = await _service.BulkCreateAsync(dtos, cancellationToken);
+            
+            var json = JsonSerializer.Serialize(result);
+            var sizeInBytes = Encoding.UTF8.GetByteCount(json);
+            ResponseSizeHistogram.WithLabels("api/products/bulk-create").Observe(sizeInBytes);
+            
             return Ok(result);
         }
 
@@ -116,6 +127,11 @@ namespace OnlineStore.API.Controllers
             Response.Headers.Append("X-Instance-Id", _instanceId);
             
             var result = await _service.BulkUpdateAsync(items, cancellationToken);
+            
+            var json = JsonSerializer.Serialize(result);
+            var sizeInBytes = Encoding.UTF8.GetByteCount(json);
+            ResponseSizeHistogram.WithLabels("api/products/bulk-update").Observe(sizeInBytes);
+            
             return Ok(result);
         }
 
@@ -127,6 +143,11 @@ namespace OnlineStore.API.Controllers
             Response.Headers.Append("X-Instance-Id", _instanceId);
             
             var result = await _service.BulkDeleteAsync(ids, cancellationToken);
+            
+            var json = JsonSerializer.Serialize(result);
+            var sizeInBytes = Encoding.UTF8.GetByteCount(json);
+            ResponseSizeHistogram.WithLabels("api/products/bulk-delete").Observe(sizeInBytes);
+            
             return Ok(result);
         }
     }
