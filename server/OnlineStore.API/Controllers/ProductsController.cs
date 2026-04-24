@@ -54,7 +54,10 @@ namespace OnlineStore.API.Controllers
             
             var json = JsonSerializer.Serialize(result);
             var sizeInBytes = Encoding.UTF8.GetByteCount(json);
+            
+            // Явно вызываем Observe и с меткой, и без метки для регистрации
             ResponseSizeHistogram.WithLabels("api/products").Observe(sizeInBytes);
+            ResponseSizeHistogram.Observe(sizeInBytes); // ← добавили вызов без метки
             
             return Ok(result);
         }
@@ -94,6 +97,7 @@ namespace OnlineStore.API.Controllers
                 var json = JsonSerializer.Serialize(product);
                 var sizeInBytes = Encoding.UTF8.GetByteCount(json);
                 ResponseSizeHistogram.WithLabels("api/products/id").Observe(sizeInBytes);
+                ResponseSizeHistogram.Observe(sizeInBytes);
                 
                 return Ok(product);
             }
@@ -115,6 +119,7 @@ namespace OnlineStore.API.Controllers
             var json = JsonSerializer.Serialize(result);
             var sizeInBytes = Encoding.UTF8.GetByteCount(json);
             ResponseSizeHistogram.WithLabels("api/products/bulk-create").Observe(sizeInBytes);
+            ResponseSizeHistogram.Observe(sizeInBytes);
             
             return Ok(result);
         }
@@ -131,6 +136,7 @@ namespace OnlineStore.API.Controllers
             var json = JsonSerializer.Serialize(result);
             var sizeInBytes = Encoding.UTF8.GetByteCount(json);
             ResponseSizeHistogram.WithLabels("api/products/bulk-update").Observe(sizeInBytes);
+            ResponseSizeHistogram.Observe(sizeInBytes);
             
             return Ok(result);
         }
@@ -147,6 +153,7 @@ namespace OnlineStore.API.Controllers
             var json = JsonSerializer.Serialize(result);
             var sizeInBytes = Encoding.UTF8.GetByteCount(json);
             ResponseSizeHistogram.WithLabels("api/products/bulk-delete").Observe(sizeInBytes);
+            ResponseSizeHistogram.Observe(sizeInBytes);
             
             return Ok(result);
         }
