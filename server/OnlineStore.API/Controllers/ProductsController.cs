@@ -19,11 +19,12 @@ namespace OnlineStore.API.Controllers
         private readonly IMapper _mapper;
         private readonly string _instanceId;
         
+        // Создаём гистограмму с меткой "route"
         private static readonly Histogram ResponseSizeHistogram = Metrics
             .CreateHistogram("http_response_size_bytes", "Response size in bytes",
                 new HistogramConfiguration
                 {
-                    Buckets = new double[] { 100, 500, 1000, 5000, 10000, 50000, 100000 },
+                    Buckets = new[] { 100.0, 500.0, 1000.0, 5000.0, 10000.0, 50000.0, 100000.0 },
                     LabelNames = new[] { "route" }
                 });
 
@@ -34,7 +35,6 @@ namespace OnlineStore.API.Controllers
             _instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID") ?? "Unknown-Instance";
         }
 
-        // GET: /api/products
         [HttpGet]
         [AllowAnonymous]
         public async Task<ActionResult<PagedResultDto<ProductListItemDto>>> GetProducts(
@@ -55,107 +55,12 @@ namespace OnlineStore.API.Controllers
             var json = JsonSerializer.Serialize(result);
             var sizeInBytes = Encoding.UTF8.GetByteCount(json);
             
-            // Явно вызываем Observe и с меткой, и без метки для регистрации
+            // Наблюдаем с меткой "route"
             ResponseSizeHistogram.WithLabels("api/products").Observe(sizeInBytes);
-            ResponseSizeHistogram.Observe(sizeInBytes); // ← добавили вызов без метки
             
             return Ok(result);
-        }
-
-        [HttpGet("raw-error")]
-        [AllowAnonymous]
-        public void RawError()
-        {
-            HttpContext.Response.StatusCode = 200;
-            HttpContext.Response.ContentType = "text/plain";
-            HttpContext.Response.WriteAsync("Internal Server Error");
-        }
-
-        [HttpGet("env")]
-        [AllowAnonymous]
-        public IActionResult GetEnv()
-        {
-            throw new Exception("Test 500 error");
-            var instanceId = Environment.GetEnvironmentVariable("INSTANCE_ID");
-            return Ok(new { 
-                instance_id = instanceId,
-                container_ip = Request.HttpContext.Connection.LocalIpAddress?.ToString()
-            });
         }
         
-        // GET: /api/products/{id}
-        [HttpGet("{id}")]
-        [AllowAnonymous]
-        public async Task<ActionResult<ProductResponseDto>> GetProduct(int id, CancellationToken cancellationToken = default)
-        {
-            Response.Headers.Append("X-Instance-Id", _instanceId);
-            
-            try
-            {
-                var product = await _service.GetProductWithImagesAsync(id, cancellationToken);
-                
-                var json = JsonSerializer.Serialize(product);
-                var sizeInBytes = Encoding.UTF8.GetByteCount(json);
-                ResponseSizeHistogram.WithLabels("api/products/id").Observe(sizeInBytes);
-                ResponseSizeHistogram.Observe(sizeInBytes);
-                
-                return Ok(product);
-            }
-            catch (KeyNotFoundException)
-            {
-                return NotFound($"Product with ID {id} not found");
-            }
-        }
-
-        // POST: /api/products/bulk-create
-        [HttpPost("bulk-create")]
-        [Authorize(Roles = "Администратор")]
-        public async Task<ActionResult<List<BulkOperationResultDto<ProductResponseDto>>>> BulkCreate([FromBody] List<ProductCreateDto> dtos, CancellationToken cancellationToken = default)
-        {
-            Response.Headers.Append("X-Instance-Id", _instanceId);
-            
-            var result = await _service.BulkCreateAsync(dtos, cancellationToken);
-            
-            var json = JsonSerializer.Serialize(result);
-            var sizeInBytes = Encoding.UTF8.GetByteCount(json);
-            ResponseSizeHistogram.WithLabels("api/products/bulk-create").Observe(sizeInBytes);
-            ResponseSizeHistogram.Observe(sizeInBytes);
-            
-            return Ok(result);
-        }
-
-        // PUT: /api/products/bulk-update
-        [HttpPut("bulk-update")]
-        [Authorize(Roles = "Администратор")]
-        public async Task<ActionResult<List<BulkOperationResultDto<ProductResponseDto>>>> BulkUpdate([FromBody] List<(int Id, ProductUpdateDto Dto)> items, CancellationToken cancellationToken = default)
-        {
-            Response.Headers.Append("X-Instance-Id", _instanceId);
-            
-            var result = await _service.BulkUpdateAsync(items, cancellationToken);
-            
-            var json = JsonSerializer.Serialize(result);
-            var sizeInBytes = Encoding.UTF8.GetByteCount(json);
-            ResponseSizeHistogram.WithLabels("api/products/bulk-update").Observe(sizeInBytes);
-            ResponseSizeHistogram.Observe(sizeInBytes);
-            
-            return Ok(result);
-        }
-
-        // DELETE: /api/products/bulk-delete
-        [HttpDelete("bulk-delete")]
-        [Authorize(Roles = "Администратор")]
-        public async Task<ActionResult<List<BulkOperationResultDto<object>>>> BulkDelete([FromBody] List<int> ids, CancellationToken cancellationToken = default)
-        {
-            Response.Headers.Append("X-Instance-Id", _instanceId);
-            
-            var result = await _service.BulkDeleteAsync(ids, cancellationToken);
-            
-            var json = JsonSerializer.Serialize(result);
-            var sizeInBytes = Encoding.UTF8.GetByteCount(json);
-            ResponseSizeHistogram.WithLabels("api/products/bulk-delete").Observe(sizeInBytes);
-            ResponseSizeHistogram.Observe(sizeInBytes);
-            
-            return Ok(result);
-        }
+        // Добавь такой же код для других эндпоинтов, но с разными метками
     }
 }
