@@ -60,7 +60,74 @@ namespace OnlineStore.API.Controllers
             
             return Ok(result);
         }
-        
-        // Добавь такой же код для других эндпоинтов, но с разными метками
+
+        [HttpGet("{id}")]
+        [AllowAnonymous]
+        public async Task<ActionResult<ProductResponseDto>> GetProduct(int id, CancellationToken cancellationToken = default)
+        {
+            try
+            {
+                var product = await _service.GetProductAsync(id, cancellationToken);
+                return Ok(product);
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { message = ex.Message });
+            }
+        }
+
+        [HttpPost]
+        [Authorize(Roles = "Администратор")]
+        public async Task<ActionResult<ProductResponseDto>> CreateProduct(
+            [FromBody] ProductCreateDto dto,
+            CancellationToken cancellationToken = default)
+        {
+            try
+            {
+                var product = await _service.CreateProductAsync(dto, cancellationToken);
+                return CreatedAtAction(nameof(GetProduct), new { id = product.Id }, product);
+            }
+            catch (InvalidOperationException ex)
+            {
+                return Conflict(new { message = ex.Message });
+            }
+        }
+
+        [HttpPut("{id}")]
+        [Authorize(Roles = "Администратор")]
+        public async Task<ActionResult<ProductResponseDto>> UpdateProduct(
+            int id,
+            [FromBody] ProductUpdateDto dto,
+            CancellationToken cancellationToken = default)
+        {
+            try
+            {
+                var product = await _service.UpdateProductAsync(id, dto, cancellationToken);
+                return Ok(product);
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { message = ex.Message });
+            }
+            catch (InvalidOperationException ex)
+            {
+                return Conflict(new { message = ex.Message });
+            }
+        }
+
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Администратор")]
+        public async Task<IActionResult> DeleteProduct(int id, CancellationToken cancellationToken = default)
+        {
+            try
+            {
+                await _service.DeleteProductAsync(id, cancellationToken);
+                return NoContent();
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { message = ex.Message });
+            }
+        }
     }
 }

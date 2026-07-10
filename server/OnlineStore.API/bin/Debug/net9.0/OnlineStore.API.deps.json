@@ -16,6 +16,7 @@
           "OnlineStore.Core": "1.0.0",
           "OnlineStore.Services": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0",
+          "prometheus-net": "8.2.1",
           "prometheus-net.AspNetCore": "8.2.1"
         },
         "runtime": {

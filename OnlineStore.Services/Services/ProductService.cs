@@ -109,6 +109,88 @@ namespace OnlineStore.Services.Services
         }
 
         // ----------------------
+        // Одиночные CRUD операции
+        // ----------------------
+        public async Task<ProductResponseDto> CreateProductAsync(ProductCreateDto dto, CancellationToken cancellationToken = default)
+        {
+            _logger.LogInformation("Creating product: {ProductName}", dto.Name);
+
+            // Проверка уникальности имени продукта
+            var existingProduct = await _context.Products
+                .FirstOrDefaultAsync(p => p.Name.ToLower() == dto.Name.ToLower(), cancellationToken);
+
+            if (existingProduct != null)
+            {
+                _logger.LogWarning("Product creation failed - name already exists: {ProductName}", dto.Name);
+                throw new InvalidOperationException($"Product with name '{dto.Name}' already exists");
+            }
+
+            var product = _mapper.Map<Product>(dto);
+            product.CreatedAt = DateTime.UtcNow;
+            product.UpdatedAt = DateTime.UtcNow;
+
+            _context.Products.Add(product);
+            await _context.SaveChangesAsync(cancellationToken);
+
+            _logger.LogInformation("Successfully created product: {ProductName} (ID: {ProductId})", product.Name, product.Id);
+            return _mapper.Map<ProductResponseDto>(product);
+        }
+
+        public async Task<ProductResponseDto> UpdateProductAsync(int id, ProductUpdateDto dto, CancellationToken cancellationToken = default)
+        {
+            _logger.LogInformation("Updating product with ID: {ProductId}", id);
+
+            var product = await _context.Products
+                .FirstOrDefaultAsync(p => p.Id == id, cancellationToken);
+
+            if (product == null)
+            {
+                _logger.LogWarning("Product not found for update with ID: {ProductId}", id);
+                throw new KeyNotFoundException($"Product with ID {id} not found");
+            }
+
+            // Проверка уникальности имени продукта при обновлении
+            if (dto.Name != null && dto.Name != product.Name)
+            {
+                var existingProduct = await _context.Products
+                    .FirstOrDefaultAsync(p => p.Name.ToLower() == dto.Name.ToLower() && p.Id != id, cancellationToken);
+
+                if (existingProduct != null)
+                {
+                    _logger.LogWarning("Product update failed - name already exists: {ProductName}", dto.Name);
+                    throw new InvalidOperationException($"Product with name '{dto.Name}' already exists");
+                }
+            }
+
+            _mapper.Map(dto, product);
+            product.UpdatedAt = DateTime.UtcNow;
+
+            await _context.SaveChangesAsync(cancellationToken);
+
+            _logger.LogInformation("Successfully updated product: {ProductName} (ID: {ProductId})", product.Name, id);
+            return _mapper.Map<ProductResponseDto>(product);
+        }
+
+        public async Task DeleteProductAsync(int id, CancellationToken cancellationToken = default)
+        {
+            _logger.LogInformation("Deleting product with ID: {ProductId}", id);
+
+            var product = await _context.Products
+                .FirstOrDefaultAsync(p => p.Id == id, cancellationToken);
+
+            if (product == null)
+            {
+                _logger.LogWarning("Product not found for deletion with ID: {ProductId}", id);
+                throw new KeyNotFoundException($"Product with ID {id} not found");
+            }
+
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync(cancellationToken);
+
+            _logger.LogInformation("Successfully deleted product with ID: {ProductId}", id);
+        }
+
+        // ----------------------
         // Bulk операции
         // ----------------------
         public async Task<List<BulkOperationResultDto<ProductResponseDto>>> BulkCreateAsync(IEnumerable<ProductCreateDto> dtos, CancellationToken cancellationToken = default)

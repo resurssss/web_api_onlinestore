@@ -17,6 +17,9 @@ namespace OnlineStore.Core.Interfaces
             int page = 1,
             int pageSize = 10,
             CancellationToken cancellationToken = default);
+        Task<ProductResponseDto> CreateProductAsync(ProductCreateDto dto, CancellationToken cancellationToken = default);
+        Task<ProductResponseDto> UpdateProductAsync(int id, ProductUpdateDto dto, CancellationToken cancellationToken = default);
+        Task DeleteProductAsync(int id, CancellationToken cancellationToken = default);
         
         // Bulk операции
         Task<List<BulkOperationResultDto<ProductResponseDto>>> BulkCreateAsync(IEnumerable<ProductCreateDto> dtos, CancellationToken cancellationToken = default);

@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using OnlineStore.Core.Models;
 using OnlineStore.Core.Configurations;
-using BCrypt.Net;
 
 namespace OnlineStore.Core;
 
@@ -52,9 +51,6 @@ public class OnlineStoreDbContext : DbContext
             modelBuilder.ApplyConfiguration(new SecurityAuditLogConfiguration());
             modelBuilder.ApplyConfiguration(new FileMetadataConfiguration());
             
-            // Seed данные
-            SeedData(modelBuilder);
-            
             // Конфигурация ProductImage
             modelBuilder.Entity<ProductImage>(entity =>
             {
@@ -85,68 +81,4 @@ public class OnlineStoreDbContext : DbContext
             
             base.OnModelCreating(modelBuilder);
         }
-    
-    private void SeedData(ModelBuilder modelBuilder)
-    {
-        // Seed ролей
-        modelBuilder.Entity<Role>().HasData(
-            new Role { Id = 1, Name = "Администратор", Description = "Полный доступ ко всем функциям", CreatedAt = DateTime.UtcNow, UpdatedAt = DateTime.UtcNow },
-            new Role { Id = 2, Name = "Пользователь", Description = "Базовый пользователь", CreatedAt = DateTime.UtcNow, UpdatedAt = DateTime.UtcNow },
-            new Role { Id = 3, Name = "Модератор", Description = "Модерация контента", CreatedAt = DateTime.UtcNow, UpdatedAt = DateTime.UtcNow },
-            new Role { Id = 4, Name = "ПремиумПользователь", Description = "Расширенные функции", CreatedAt = DateTime.UtcNow, UpdatedAt = DateTime.UtcNow }
-        );
-        
-        // Seed permissions
-        modelBuilder.Entity<Permission>().HasData(
-            new Permission { Id = Guid.NewGuid(), Name = "CanEditPost", Description = "Может редактировать посты", Category = "Content" },
-            new Permission { Id = Guid.NewGuid(), Name = "CanDeleteUser", Description = "Может удалять пользователей", Category = "UserManagement" },
-            new Permission { Id = Guid.NewGuid(), Name = "CanViewReports", Description = "Может просматривать отчеты", Category = "Analytics" },
-            new Permission { Id = Guid.NewGuid(), Name = "CanManageUsers", Description = "Может управлять пользователями", Category = "UserManagement" },
-            new Permission { Id = Guid.NewGuid(), Name = "CanManageProducts", Description = "Может управлять продуктами", Category = "ProductManagement" },
-            new Permission { Id = Guid.NewGuid(), Name = "CanViewAnalytics", Description = "Может просматривать аналитику", Category = "Analytics" },
-            new Permission { Id = Guid.NewGuid(), Name = "CanManageOrders", Description = "Может управлять заказами", Category = "OrderManagement" }
-        );
-        
-        // Seed тестовых пользователей
-        modelBuilder.Entity<User>().HasData(
-            new User
-            {
-                Id = 1,
-                Email = "admin@test.com",
-                Username = "admin",
-                PasswordHash = BCrypt.Net.BCrypt.HashPassword("Password123!"),
-                PasswordSalt = "", // BCrypt не требует отдельного salt, но поле обязательно
-                FirstName = "Admin",
-                LastName = "Admin",
-                PhoneNumber = null,
-                IsEmailConfirmed = true,
-                IsActive = true,
-                IsDeleted = false,
-                CreatedAt = DateTime.UtcNow,
-                UpdatedAt = DateTime.UtcNow
-            },
-            new User
-            {
-                Id = 2,
-                Email = "user@test.com",
-                Username = "user",
-                PasswordHash = BCrypt.Net.BCrypt.HashPassword("Password123!"),
-                PasswordSalt = "",
-                FirstName = "Test",
-                LastName = "User",
-                PhoneNumber = null,
-                IsEmailConfirmed = true,
-                IsActive = true,
-                IsDeleted = false,
-                CreatedAt = DateTime.UtcNow,
-                UpdatedAt = DateTime.UtcNow
-            }
-        );
-        
-        // Seed UserRole связи для тестовых пользователей
-        modelBuilder.Entity<UserRole>().HasData(
-            new UserRole { UserId = 1, RoleId = 1, AssignedAt = DateTime.UtcNow }, // Админ - Администратор
-            new UserRole { UserId = 2, RoleId = 2, AssignedAt = DateTime.UtcNow }  // Пользователь - Пользователь
-        );
-    }
 }
